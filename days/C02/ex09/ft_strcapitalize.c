@@ -39,7 +39,7 @@ char *ft_strcapitalize(char *str)
     return str;
 }
 
-/*
+
 #include <stdio.h>
 int main() {
     char str3[] = "salut, comment tu vas ? 42mots quarante-deux; cinquante+et+un";
@@ -50,4 +50,3 @@ int main() {
     return 0;
 }
 
-*/
