@@ -29,7 +29,7 @@ char *ft_strstr(char *str, char *to_find)
 
 
 
-
+/*
 #include <stdio.h>
 #include <string.h>
 
@@ -58,5 +58,5 @@ int main() {
 
     return 0;
 }
-
+*/
 
